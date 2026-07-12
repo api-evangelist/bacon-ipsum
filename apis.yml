@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://baconipsum.com/json-api/
 common:
+  - type: DomainSecurity
+    url: security/bacon-ipsum-domain-security.yml
   - type: Website
     url: https://baconipsum.com/json-api/
   - type: PublicAPIsListing
